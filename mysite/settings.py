@@ -24,7 +24,7 @@ SECRET_KEY = '%hl3qr3^d#*_8oc9=8z%i*n_s=_&*bw0d!mpk)q7l3h=rjvc%f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['pravena01.herokuapp.com']
 
 # Application definition
 
